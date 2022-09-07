@@ -6,6 +6,7 @@ import static javax.swing.JOptionPane.showInputDialog;
 public class O1 {
 
 	public static void main(String[] args) {
+		
 		// Input
 
 		double brutto = parseInt(showInputDialog("Skriv inn bruttoinntekt: "));
@@ -42,4 +43,4 @@ public class O1 {
 
 	}
 
-}
+
